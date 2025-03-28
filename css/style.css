@@ -1146,28 +1146,28 @@ body {
   }
 }
 .button--burger {
-  background-image: url(../img/buttons/burger.svg);
+  background-image: url("../img/buttons/burger.svg");
 }
 .button--call {
-  background-image: url(../img/buttons/call.svg);
+  background-image: url("../img/buttons/call.svg");
 }
 .button--chat {
-  background-image: url(../img/buttons/chat.svg);
+  background-image: url("../img/buttons/chat.svg");
 }
 .button--profile {
-  background-image: url(../img/buttons/profile.svg);
+  background-image: url("../img/buttons/profile.svg");
 }
 .button--repair {
-  background-image: url(../img/buttons/repair.svg);
+  background-image: url("../img/buttons/repair.svg");
 }
 .button--check-status {
-  background-image: url(../img/buttons/checkstatus.svg);
+  background-image: url("../img/buttons/checkstatus.svg");
 }
 .button--close {
-  background-image: url(../img/buttons/burger_close.svg);
+  background-image: url("../img/buttons/burger_close.svg");
 }
 .button--search {
-  background-image: url(../img/buttons/search.svg);
+  background-image: url("../img/buttons/search.svg");
 }
 
 .contact-group {
@@ -1471,7 +1471,7 @@ body {
   }
 }
 .view-all-button__decore {
-  background: url(../img/arrows.svg) no-repeat 50% 40%;
+  background: url("../img/arrows.svg") no-repeat 50% 40%;
   width: 24px;
   height: 24px;
   vertical-align: middle;
@@ -1788,7 +1788,7 @@ body {
 }
 .submit-button::after {
   content: "";
-  background-image: url(../img/dropdown.svg);
+  background-image: url("../img/dropdown.svg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   width: 24px;
@@ -2010,7 +2010,7 @@ body {
   height: 160px;
 }
 .repair-button__decor {
-  background-image: url(../img/go.svg);
+  background-image: url("../img/go.svg");
   width: 40px;
   height: 40px;
 }

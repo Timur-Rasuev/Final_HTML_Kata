@@ -1146,28 +1146,28 @@ body {
   }
 }
 .button--burger {
-  background-image: url(static/burger.svg);
+  background-image: url(../img/buttons/burger.svg);
 }
 .button--call {
-  background-image: url(static/call.svg);
+  background-image: url(../img/buttons/call.svg);
 }
 .button--chat {
-  background-image: url(static/chat.svg);
+  background-image: url(../img/buttons/chat.svg);
 }
 .button--profile {
-  background-image: url(static/profile.svg);
+  background-image: url(../img/buttons/profile.svg);
 }
 .button--repair {
-  background-image: url(static/repair.svg);
+  background-image: url(../img/buttons/repair.svg);
 }
 .button--check-status {
-  background-image: url(static/checkstatus.svg);
+  background-image: url(../img/buttons/checkstatus.svg);
 }
 .button--close {
-  background-image: url(static/burger_close.svg);
+  background-image: url(../img/buttons/burger_close.svg);
 }
 .button--search {
-  background-image: url(static/search.svg);
+  background-image: url(../img/buttons/search.svg);
 }
 
 .contact-group {
@@ -1412,7 +1412,7 @@ body {
   left: 0;
   width: 4px;
   height: 40px;
-  background-image: url("/img/highlight.svg");
+  background-image: url("../img/highlight.svg");
 }
 .title__text {
   margin: 0;
@@ -1471,7 +1471,7 @@ body {
   }
 }
 .view-all-button__decore {
-  background: url(static/arrows.svg) no-repeat 50% 40%;
+  background: url(../img/arrows.svg) no-repeat 50% 40%;
   width: 24px;
   height: 24px;
   vertical-align: middle;
@@ -1564,7 +1564,7 @@ body {
   width: 4px;
   height: 32px;
   left: 0;
-  background-image: url("/img/highlight.svg");
+  background-image: url("../img/highlight.svg");
   background-repeat: no-repeat;
   background-size: 3px 32px;
   transform: translateY(-15%);
@@ -1683,7 +1683,7 @@ body {
   width: 4px;
   height: 32px;
   left: 0;
-  background-image: url("/img/highlight.svg");
+  background-image: url("../img/highlight.svg");
   background-repeat: no-repeat;
   background-size: 3px 32px;
 }
@@ -1788,7 +1788,7 @@ body {
 }
 .submit-button::after {
   content: "";
-  background-image: url(static/dropdown.svg);
+  background-image: url(../img/dropdown.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   width: 24px;
@@ -2010,7 +2010,7 @@ body {
   height: 160px;
 }
 .repair-button__decor {
-  background-image: url(static/go.svg);
+  background-image: url(../img/go.svg);
   width: 40px;
   height: 40px;
 }
@@ -2142,7 +2142,7 @@ body {
   position: absolute;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  background-image: url("/src/img/more.svg");
+  background-image: url("../img/more.svg");
 }
 @media (min-width: 768px) {
   .price__tbody-cell {
